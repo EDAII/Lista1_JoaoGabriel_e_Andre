@@ -1,6 +1,10 @@
 # Search time comparison
 **A code that measure a few search algorithms execution time and plot a graph comparing them**
 
+## Alunos
+- Joao Gabriel Rossi de Borba -> 17/0013693
+- Andre
+
 ## Steps to run
 - Install python3
 - Download matplotlib
