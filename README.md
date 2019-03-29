@@ -3,7 +3,7 @@
 
 ## Alunos
 - Joao Gabriel Rossi de Borba -> 17/0013693
-- Andre
+- Andre Aben-Athar de Freitas -> 17/0056155
 
 ## Steps to run
 - Install python3
